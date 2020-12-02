@@ -1,0 +1,1 @@
+No se pudo<?php /**PATH C:\laragon\www\loginXd\resources\views/accesoincorrecto.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+Ya estas<?php /**PATH C:\laragon\www\loginXd\resources\views/accesocorrecto.blade.php ENDPATH**/ ?>
